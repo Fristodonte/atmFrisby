@@ -1,18 +1,16 @@
-## Getting Started
+Welcome to Chicken ATM — the silliest (but surprisingly functional) little ATM you’ll ever use on your terminal! 🐣💸
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Now featuring clean code, organized packages, and zero actual chickens harmed in the process.
 
-## Folder Structure
+🌽 What is Chicken ATM?
+Chicken ATM is a Java console app that lets users:
 
-The workspace contains two folders by default, where:
+💳 Use credit or debit cards
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🤑 Check balances
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+🐔 Make payments, deposits, or withdrawals
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🤖 Interact via a simple text-based menu
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Now upgraded with packages, clean structure, and better error handling — because even chickens deserve well-written code.
